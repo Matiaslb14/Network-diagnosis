@@ -1,12 +1,14 @@
-echo "# Diagnóstico de red en consola - Interfaces activas
+# 🌐 Console-Based Network Diagnosis – Active Interfaces
 
-Script bash para listar interfaces de red activas con IPs asignadas en Linux.
+Bash script to list active network interfaces with assigned IP addresses in Linux.
 
-## Uso
+▶️ Usage
 
-Ejecutar ./interfaces_activas.sh con permisos de ejecución.
+Run the script with execution permissions:
+./interfaces_activas.sh
 
-## Comandos usados
+🛠️ Commands Used
 
-- ip
-" > README.md
+ip – Displays network interfaces and addresses
+awk – Text processing for extracting relevant information
+bash – Script execution and automation logic
