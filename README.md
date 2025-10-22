@@ -80,3 +80,5 @@ This tool is part of my Linux Automation & Network Toolkit series.
 ES:
 Esta herramienta forma parte de mi serie de automatización y diagnóstico de red en Linux.
 
+---
+🧑‍💻 Developed by [Matías Lagos Barra](https://github.com/Matiaslb14) — Linux & Cloud Security Enthusiast.
