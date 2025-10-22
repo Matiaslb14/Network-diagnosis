@@ -33,6 +33,8 @@ Ejecuta el script con permisos de ejecución:
 chmod +x network_diagnosis.sh
 ./network_diagnosis.sh
 
+
+
 🛠️ Commands Used / Comandos Utilizados
 
 | Command | Description (EN)                             | Descripción (ES)                                          |
@@ -46,11 +48,14 @@ chmod +x network_diagnosis.sh
 EN:
 Displays the list of active interfaces with assigned IP addresses.
 
+Interface: eth0   →  IP: 192.168.1.10
+Interface: wlan0  →  IP: 192.168.1.5
+
 ES:
 Muestra el listado de interfaces activas con sus direcciones IP asignadas.
 
-Interface: eth0   →  IP: 192.168.1.10
-Interface: wlan0  →  IP: 192.168.1.5
+Interfaz: eth0   →  IP: 192.168.1.10
+Interfaz: wlan0  →  IP: 192.168.1.5
 
 📘 Notes / Notas
 
