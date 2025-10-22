@@ -49,12 +49,14 @@ EN:
 Displays the list of active interfaces with assigned IP addresses.
 
 Interface: eth0   →  IP: 192.168.1.10
+
 Interface: wlan0  →  IP: 192.168.1.5
 
 ES:
 Muestra el listado de interfaces activas con sus direcciones IP asignadas.
 
 Interfaz: eth0   →  IP: 192.168.1.10
+
 Interfaz: wlan0  →  IP: 192.168.1.5
 
 📘 Notes / Notas
