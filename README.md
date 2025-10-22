@@ -13,6 +13,12 @@ Script en Bash para listar todas las interfaces de red activas con sus direccion
 Útil para diagnósticos rápidos de red, auditorías de servidores o verificación de conectividad.
 
 ---
+## ✅ Prerequisites / Prerrequisitos  
+
+- Linux (tested on Ubuntu 22.04, CentOS 8)  
+- Bash shell  
+- `ip` command (usually included)  
+- Execution permissions
 
 ## ▶️ Usage / Uso  
 **EN:**  
