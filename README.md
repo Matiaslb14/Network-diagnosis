@@ -59,6 +59,19 @@ Interfaz: eth0   →  IP: 192.168.1.10
 
 Interfaz: wlan0  →  IP: 192.168.1.5
 
+
+## 🖼️ Screenshot / Captura de Ejecución  
+
+**EN:**  
+Below is an example of the script running on Kali Linux, displaying the active network interfaces.  
+
+**ES:**  
+A continuación se muestra un ejemplo del script ejecutándose en Kali Linux, mostrando las interfaces de red activas.  
+
+<p align="center">
+  <img src="./images/network_diagnosis_run.png" width="720"/>
+</p>
+
 📘 Notes / Notas
 
 EN:
