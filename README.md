@@ -1,17 +1,11 @@
-# 🌐 Console-Based Network Diagnosis – Active Interfaces
+🌐 Console-Based Network Diagnosis – Active Interfaces
+(Diagnóstico de Red por Consola – Interfaces Activas)
+🧩 Overview / Descripción
 
-Bash script to list active network interfaces with assigned IP addresses in Linux.
+EN:
+Bash script to list all active network interfaces with their assigned IP addresses on Linux systems.
+Useful for quick network diagnostics, server audits, or connectivity verification.
 
-▶️ Usage
-
-Run the script with execution permissions:
-
-./interfaces_activas.sh
-
-🛠️ Commands Used
-
-ip – Displays network interfaces and addresses
-
-awk – Text processing for extracting relevant information
-
-bash – Script execution and automation logic
+ES:
+Script en Bash para listar todas las interfaces de red activas con sus direcciones IP asignadas en sistemas Linux.
+Útil para diagnósticos rápidos de red, auditorías de servidores o verificación de conectividad.
