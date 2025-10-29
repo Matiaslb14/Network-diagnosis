@@ -27,7 +27,7 @@ Run the script with execution permissions:
 chmod +x network_diagnosis.sh
 ./network_diagnosis.sh
 
-ES:
+**ES:**
 Ejecuta el script con permisos de ejecución:
 
 chmod +x network_diagnosis.sh
@@ -45,14 +45,14 @@ chmod +x network_diagnosis.sh
 
 📂 Output Example / Ejemplo de Salida
 
-EN:
+**EN:**
 Displays the list of active interfaces with assigned IP addresses.
 
 Interface: eth0   →  IP: 192.168.1.10
 
 Interface: wlan0  →  IP: 192.168.1.5
 
-ES:
+**ES:**
 Muestra el listado de interfaces activas con sus direcciones IP asignadas.
 
 Interfaz: eth0   →  IP: 192.168.1.10
@@ -74,10 +74,10 @@ A continuación se muestra un ejemplo del script ejecutándose en Kali Linux, mo
 
 📘 Notes / Notas
 
-EN:
+**EN:**
 This tool is part of my Linux Automation & Network Toolkit series.
 
-ES:
+**ES:**
 Esta herramienta forma parte de mi serie de automatización y diagnóstico de red en Linux.
 
 ---
